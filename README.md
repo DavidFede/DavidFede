@@ -3,5 +3,4 @@
 
 - 🌱 I’m currently learning **everything because I've forgot it.**
 ![alt text]()
-<p align="left">
 </p>
